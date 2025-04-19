@@ -19,6 +19,14 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - Temperature scales
 - [Basic Thermodynamics Process](https://youtube.com/shorts/EP5mhrBLT6s)
 - [Isothermal adiabatic isochoric isobaric](https://youtube.com/shorts/PZoay-MLHXo)
+- [Isochoric Processes: Understanding Constant Volume (Δ𝑉 = 0) Behavior ](https://youtu.be/1FKkBLQeSKw)
+- [Isobaric Processes Constant Pressure (Δ𝑝= 0)](https://youtu.be/tWZiGlBPRmw)
+- [Isothermal Processes: Constant Temperature (ΔT=0)](https://youtu.be/AZUZddnIeC8)
+- [Adiabatic Processes: Understanding No Heat Transfer (Q=0)](https://youtu.be/biMxPSH5Czw)
+- [Work done for Adiabatic Process](https://youtube.com/shorts/VbUtfq6vBLA)
+- [Isobaric Process Explained with Numerical Example](https://youtu.be/DJZK1x9Xfew)
+- [Isochoric Process Explained with Numerical Example](https://youtu.be/c1hLAE1NwoQ)
+- [Heat Energy Calculation for Various Gases: Key Insights](https://youtu.be/pbZoV8t1dTI)
 
 
 
@@ -50,13 +58,18 @@ This repository offers a comprehensive collection of Python notebooks and learni
 
 ### 🔥 Unit III: Laws of Thermodynamics
 - Joule’s experiment and internal energy
+- [Frist Law of Thermodynamics ](https://youtube.com/shorts/6JBWmAHn8Dk)
 - [Laws of Thermodynamics](https://youtube.com/shorts/rXY026pxkec)
 - [First Law of Thermodynamics](https://youtube.com/shorts/UzAY2xCS7X4)
-- 
+- [ First Law of Thermodynamics: A Numerical Example](https://youtu.be/lBBIH5wT-qc)
 - First Law: closed and open systems
 - [First Law of Thermodynamics in Flow Processes](https://youtu.be/dEQR9G-75zU)
 - 
 - Second Law: statements, heat engine, Carnot cycle, entropy
+- [Entropy Applications and Implications](https://youtube.com/shorts/eYjC5rY79E8)
+- [Carnot Engine P-V&T-S Diagram](https://youtube.com/shorts/jzWu4bEYj2c)
+- [Carnot cycle with four Process](https://youtube.com/shorts/MAb_Zh4ZJ6U)
+- [2nd Law of Thermodynamics](https://youtube.com/shorts/IiVHaSfktrU)
 - Entropy from a microscopic viewpoint
 - Third Law of Thermodynamics
 - [PdV Work in Various Quasi static Processes](https://youtu.be/11WJ8B1Alvo)
@@ -73,6 +86,8 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - [Gibbs Free Energy Equation](https://youtube.com/shorts/E2V87ZloJVo)
 - [Maxwell's Relations SPTV ](https://youtube.com/shorts/m5SpsAoNq38)
 - [Maxwell's Relations](https://youtube.com/shorts/nrc3jFTWESs)
+- [Maxwell Relations ](https://youtube.com/shorts/mekd4No7JyI)
+- [Thermodynamics Properties internal Energy Enthalpy Gibbs and  Helmholtz free energy](https://youtube.com/shorts/8HDmMz3npWw)
 - 
 
 
@@ -93,6 +108,7 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - Ideal and non-ideal solutions
 - Standard states, Gibbs-Duhem equation
 - Excess properties of mixtures
+- [Gibbs -Duhem Equation ](https://youtube.com/shorts/-rp6yCc5kDk)
 
 
 
@@ -100,11 +116,13 @@ This repository offers a comprehensive collection of Python notebooks and learni
 
 ### ⚖️ Unit VII: Phase Equilibria
 - Chemical potential, fugacity, phase rule
+- [Activity and Activity Coefficient](https://youtube.com/shorts/2sn8HtvmW7g)
 - VLE, LLE, azeotrope behavior
 - Ternary phase diagrams
 - [T-X-Y diagram  Acetone (1) and acetonitrile (2) & vapor-liquid equilibrium (VLE)](https://youtu.be/wc3wlsDreZs)
 - [P-X-Y Diagram for Binary mixture ](https://youtu.be/o-X4SOS4h8g)
 - [T-X-Y Diagram for Binary Mixture ](https://youtu.be/sBa7W3pPDMY)
+- [Bubble Point Pressure and Vapor Composition in Liquid Mixtures Using Van Laar Activity Coefficients](https://youtu.be/sQU_ZLf6Dlc)
 - 
 
 
@@ -140,6 +158,8 @@ Why is the Thermodynamic Equilibrium Constant (K) unitless quantity?] (https://y
 - Principles and methods of refrigeration
 - Liquefaction processes
 - Performance of vapor compression and gas cycles
+- [Vapour Compression refrigeration Cycle P-H Diagram](https://youtube.com/shorts/5FymgHU1Mxc)
+- [Vapour Compression refrigeration Cycle T-S Diagram](https://youtube.com/shorts/I9QaQm_n0pQ)
 
 ### ❄️ Thermodynamics Formula
 - [Thermodynamics Formulas P1](https://youtube.com/shorts/3_dMT3U1aOU)
