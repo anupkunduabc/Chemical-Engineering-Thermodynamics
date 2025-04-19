@@ -27,6 +27,11 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - [Isobaric Process Explained with Numerical Example](https://youtu.be/DJZK1x9Xfew)
 - [Isochoric Process Explained with Numerical Example](https://youtu.be/c1hLAE1NwoQ)
 - [Heat Energy Calculation for Various Gases: Key Insights](https://youtu.be/pbZoV8t1dTI)
+- [Specific Heat at Constant Volume and Constant Pressure](https://youtube.com/shorts/YFMWTL-AY6I)
+- [Thermodynamics Process Comparison](https://youtube.com/shorts/x3doAQXd1F8)
+- [Four Fundamental Thermodynamics Process](https://youtube.com/shorts/tMNxzgvHZfo)
+- [Thermodynamic Process](https://youtube.com/shorts/apvlEtCQd0g)
+- 
 
 
 
@@ -40,6 +45,9 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - [Virial Equation of State](https://youtu.be/tzu0K2SrnDw)
 - [Virial Equation of State](https://youtube.com/shorts/5XHQbPQMfs0)
 - [Van der Waals equation of state](https://youtube.com/shorts/otoFvLKL-ac)
+- [Van der Waals Equation of State and a and b](https://youtube.com/shorts/YSeDt9I0vYk)
+- [Van der Waals Equation of State](https://youtube.com/shorts/hRnq9oU4eIk)
+- [Van der Waals vs. Ideal Gas Law](https://youtube.com/shorts/N3f0U4KDKO4)
 - [Virial Equation Of State in MATLAB](https://youtu.be/Wo-O7T5TaCA)
 - [Redlich Kwong equation of state](https://youtu.be/yMB0wuQpqdU)
 - [RK-Soave Equation equation of state](https://youtu.be/4RjO2o4nEy0)
@@ -71,6 +79,10 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - [Carnot Engine P-V&T-S Diagram](https://youtube.com/shorts/jzWu4bEYj2c)
 - [Carnot cycle with four Process](https://youtube.com/shorts/MAb_Zh4ZJ6U)
 - [2nd Law of Thermodynamics](https://youtube.com/shorts/IiVHaSfktrU)
+- [2nd Law of Thermodynamics](https://youtube.com/shorts/UWginyiOESE)
+- [Mathematical Formulations of the Second Law ](https://youtube.com/shorts/--F2s5m3eD8)
+- [Applications and Implications of the Second Law](https://youtube.com/shorts/g7VR-oAI5_g)
+- [Heat engine efficiency calculation](https://youtube.com/shorts/sYbaP1eX1Ms)
 - Entropy from a microscopic viewpoint
 - Third Law of Thermodynamics
 - [PdV Work in Various Quasi static Processes](https://youtu.be/11WJ8B1Alvo)
@@ -97,9 +109,14 @@ This repository offers a comprehensive collection of Python notebooks and learni
 ---
 
 ### 🚀 Unit V: Thermodynamics of Flow Processes
+
 - Compressible duct flow
 - Compression and expansion processes
 - Applications: steam power plant, IC engines, jets, rockets
+- [Application of First Law of Thermodynamics](https://youtube.com/shorts/0B78B-grNLU)
+- [First Law of Thermodynamics of flow process](https://youtube.com/shorts/KkamsK_y_8w)
+- [First Law of Thermodynamics of flow process.](https://youtube.com/shorts/NTDLCjXnNnQ)
+- 
 
 
 
@@ -160,6 +177,9 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - Performance of vapor compression and gas cycles
 - [Vapour Compression refrigeration Cycle P-H Diagram](https://youtube.com/shorts/5FymgHU1Mxc)
 - [Vapour Compression refrigeration Cycle T-S Diagram](https://youtube.com/shorts/I9QaQm_n0pQ)
+- [Vapour compression refrigeration cycle](https://youtube.com/shorts/uBnsh2m8Rxs)
+- [TS diagram of vapour compression cycle ](https://youtube.com/shorts/UB7kXoL94gs)
+- [Rankine Cycle](https://youtube.com/shorts/uQ-Ry7zdDss)
 
 ### ❄️ Thermodynamics Formula
 - [Thermodynamics Formulas P1](https://youtube.com/shorts/3_dMT3U1aOU)
