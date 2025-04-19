@@ -36,6 +36,7 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - PVT behaviour and its mathematical representation
 - Generalized compressibility factor correlation
 - Generalized equations of state
+- [The Law of Corresponding States ](https://youtube.com/shorts/gPzrrft2RVw)
 - [Virial Equation of State](https://youtu.be/tzu0K2SrnDw)
 - [Virial Equation of State](https://youtube.com/shorts/5XHQbPQMfs0)
 - [Van der Waals equation of state](https://youtube.com/shorts/otoFvLKL-ac)
@@ -48,6 +49,7 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - [n-Butane with Soave-Redlich-Kwong EOS](https://youtu.be/6vMoJA8UGzM)
 - [Peng-Robinson Equation of State to calculate the specific volume of n-butane.](https://youtu.be/Ae-cgv1DUW0)
 - [calculating the specific volume of n-butane using Vander Waals EOS](https://youtu.be/uRE9GkafcYQ)
+- [Numerical Example of ideal gas law and the Van der Waals equation](https://youtube.com/shorts/p26nYtNv2AQ)
 - 
 
 - 
@@ -64,7 +66,6 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - [ First Law of Thermodynamics: A Numerical Example](https://youtu.be/lBBIH5wT-qc)
 - First Law: closed and open systems
 - [First Law of Thermodynamics in Flow Processes](https://youtu.be/dEQR9G-75zU)
-- 
 - Second Law: statements, heat engine, Carnot cycle, entropy
 - [Entropy Applications and Implications](https://youtube.com/shorts/eYjC5rY79E8)
 - [Carnot Engine P-V&T-S Diagram](https://youtube.com/shorts/jzWu4bEYj2c)
@@ -87,6 +88,7 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - [Maxwell's Relations SPTV ](https://youtube.com/shorts/m5SpsAoNq38)
 - [Maxwell's Relations](https://youtube.com/shorts/nrc3jFTWESs)
 - [Maxwell Relations ](https://youtube.com/shorts/mekd4No7JyI)
+- [Maxwell Relations for PVT](https://youtube.com/shorts/JwPFHg8D2xo)
 - [Thermodynamics Properties internal Energy Enthalpy Gibbs and  Helmholtz free energy](https://youtube.com/shorts/8HDmMz3npWw)
 - 
 
@@ -144,11 +146,9 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - Simultaneous reactions and reactor equilibria
 - [Equilibrium conversion when the pressure is 50 atm and Kp = 0.0016 by using  Excel Goal Seek](https://youtu.be/h7PHk5JXTQg)
 - [Find the molar flow rates of all species  an equilibrium from the reactor](https://youtu.be/qkPUW8sHpC4)
-- [For the reaction 2CH4 ⇌ C2H2 +3H2 at 1518°C, if Kc = 0.145mol^2L^−2
-What is the relationship between Kp and Kc?
-Calculate Kp?
-Why is the Thermodynamic Equilibrium Constant (K) unitless quantity?] (https://youtu.be/9WQ78eL9fqY)
-- 
+- [For the reaction 2CH4 ⇌ C2H2 +3H2 at 1518°C, if Kc = 0.145mol^2L^−2 What is the relationship between Kp and Kc? Calculate Kp? Why is the Thermodynamic Equilibrium Constant (K) unitless quantity?] (https://youtu.be/9WQ78eL9fqY)
+- [Enthalpy of a Reaction](https://youtube.com/shorts/G6JfmtbZN20)
+- [Hess's Law of Constant Heat summation](https://youtube.com/shorts/h5ICM07-Z2o)
 
 
 
