@@ -73,6 +73,10 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - Chemical potential, fugacity, phase rule
 - VLE, LLE, azeotrope behavior
 - Ternary phase diagrams
+- [T-X-Y diagram  Acetone (1) and acetonitrile (2) & vapor-liquid equilibrium (VLE)](https://youtu.be/wc3wlsDreZs)
+- [P-X-Y Diagram for Binary mixture ](https://youtu.be/o-X4SOS4h8g)
+- [T-X-Y Diagram for Binary Mixture ](https://youtu.be/sBa7W3pPDMY)
+- 
 
 
 
@@ -91,6 +95,13 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - Standard states and reaction equilibrium constants
 - Evaluation of free energy and equilibrium composition
 - Simultaneous reactions and reactor equilibria
+- [Equilibrium conversion when the pressure is 50 atm and Kp = 0.0016 by using  Excel Goal Seek](https://youtu.be/h7PHk5JXTQg)
+- [Find the molar flow rates of all species  an equilibrium from the reactor](https://youtu.be/qkPUW8sHpC4)
+- [For the reaction 2CH4 ⇌ C2H2 +3H2 at 1518°C, if Kc = 0.145mol^2L^−2
+What is the relationship between Kp and Kc?
+Calculate Kp?
+Why is the Thermodynamic Equilibrium Constant (K) unitless quantity?] (https://youtu.be/9WQ78eL9fqY)
+- 
 
 
 
@@ -101,6 +112,10 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - Liquefaction processes
 - Performance of vapor compression and gas cycles
 
+### ❄️ Thermodynamics Formula
+- [Thermodynamics Formulas P1](https://youtube.com/shorts/3_dMT3U1aOU)
+- [Formulas for chemical thermodynamics](https://youtube.com/shorts/8JDBIuWHNTE)
+- 
 
 ---
 
