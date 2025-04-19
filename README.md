@@ -1,60 +1,108 @@
 # 🌡️ Chemical Engineering Thermodynamics
 
-This repository is a structured resource for studying **Chemical Engineering Thermodynamics**, covering core principles, solved examples, and computational notebooks using Python.
+This repository offers a comprehensive collection of Python notebooks and learning materials aligned with the full Chemical Engineering Thermodynamics curriculum. It supports concept learning, problem-solving, and simulation across classical and applied thermodynamics.
 
-
+ 
 📺 YouTube Channel: [Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
 ---
 
-## 📘 Topics Covered
+## 📘 Syllabus Coverage (Topic-wise)
 
 ---
 
 ### 🧪 Unit I: Basic Concepts
-
-- Thermodynamic systems and properties
-- Equilibrium and state functions
-- Processes and cycles
-- Zeroth Law and temperature scales
-
-
-
-### 🔥 Unit II: First Law of Thermodynamics
-
-- Energy balance for closed and open systems
-- Work and heat interactions
-- Enthalpy and internal energy
-- Applications to flow processes
+- Scope and importance of thermodynamics
+- Definitions: system, control volume, state and path functions
+- Concepts of equilibrium, reversibility, energy, work, and heat
+- Zeroth Law of Thermodynamics
+- Temperature scales
 
 
+---
 
-### ❄️ Unit III: Second Law of Thermodynamics
-
-- Heat engines and refrigerators
-- Carnot cycle and efficiency
-- Entropy and its implications
-- Entropy balance and reversibility
+### 📊 Unit II: PVT Behaviour of Pure Components
+- PVT behaviour and its mathematical representation
+- Generalized compressibility factor correlation
+- Generalized equations of state
 
 
 
-### 📊 Unit IV: Thermodynamic Properties of Fluids
+---
 
-- Equations of state (ideal gas, van der Waals, etc.)
-- PVT behavior and compressibility
-- Residual properties and thermodynamic charts
-- Generalized correlations
+### 🔥 Unit III: Laws of Thermodynamics
+- Joule’s experiment and internal energy
+- First Law: closed and open systems
+- Second Law: statements, heat engine, Carnot cycle, entropy
+- Entropy from a microscopic viewpoint
+- Third Law of Thermodynamics
 
-📁 Notebook Directory: `notebooks/unit4_thermo_properties/`
+📁
+
+---
+
+### 📐 Unit IV: Thermodynamic Property Relations
+- Thermodynamic potentials: U, H, A, G
+- Maxwell relations, Jacobian method, partial derivatives
+- Residual properties and property tables/diagrams
 
 
 
-### ⚖️ Unit V: Phase and Reaction Equilibria
+---
 
-- Phase equilibrium: fugacity and activity
-- Raoult’s law and modified Raoult’s law
-- Gibbs free energy and equilibrium constants
-- Reaction equilibria in chemical systems
+### 🚀 Unit V: Thermodynamics of Flow Processes
+- Compressible duct flow
+- Compression and expansion processes
+- Applications: steam power plant, IC engines, jets, rockets
+
+
+
+---
+
+### 🧪 Unit VI: Properties of Solutions
+- Partial molar properties
+- Ideal and non-ideal solutions
+- Standard states, Gibbs-Duhem equation
+- Excess properties of mixtures
+
+
+
+---
+
+### ⚖️ Unit VII: Phase Equilibria
+- Chemical potential, fugacity, phase rule
+- VLE, LLE, azeotrope behavior
+- Ternary phase diagrams
+
+
+
+---
+
+### 🔄 Unit VIII: Correlation & Prediction of Phase Equilibria
+- Activity coefficient models
+- Thermodynamic consistency
+- Applications in distillation and extraction
+
+
+
+---
+
+### ⚗️ Unit IX: Chemical Reaction Equilibria
+- Standard states and reaction equilibrium constants
+- Evaluation of free energy and equilibrium composition
+- Simultaneous reactions and reactor equilibria
+
+
+
+---
+
+### ❄️ Unit X: Refrigeration
+- Principles and methods of refrigeration
+- Liquefaction processes
+- Performance of vapor compression and gas cycles
+
+
+---
 
 
 🌐 **Subscribe**: [YouTube - Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
