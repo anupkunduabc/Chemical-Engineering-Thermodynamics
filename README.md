@@ -19,12 +19,22 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - Temperature scales
 
 
+
 ---
 
 ### 📊 Unit II: PVT Behaviour of Pure Components
 - PVT behaviour and its mathematical representation
 - Generalized compressibility factor correlation
 - Generalized equations of state
+- [Virial Equation of State](https://youtu.be/tzu0K2SrnDw)
+- [Virial Equation of State](https://youtube.com/shorts/5XHQbPQMfs0)
+- [Van der Waals equation of state](https://youtube.com/shorts/otoFvLKL-ac)
+- [Virial Equation Of State in MATLAB](https://youtu.be/Wo-O7T5TaCA)
+- [Redlich Kwong equation of state](https://youtu.be/yMB0wuQpqdU)
+- [RK-Soave Equation equation of state](https://youtu.be/4RjO2o4nEy0)
+- [Peng-Robinson Equation of State](https://youtu.be/fup_836s1M0)
+
+- 
 
 
 
@@ -32,10 +42,13 @@ This repository offers a comprehensive collection of Python notebooks and learni
 
 ### 🔥 Unit III: Laws of Thermodynamics
 - Joule’s experiment and internal energy
+- [Laws of Thermodynamics](https://youtube.com/shorts/rXY026pxkec)
 - First Law: closed and open systems
 - Second Law: statements, heat engine, Carnot cycle, entropy
 - Entropy from a microscopic viewpoint
 - Third Law of Thermodynamics
+- [PdV Work in Various Quasi static Processes](https://youtu.be/11WJ8B1Alvo)
+- [Numerical on PdV work in various quasi-static processes](https://youtu.be/w-d-ZeAaAfs)
 
 📁
 
