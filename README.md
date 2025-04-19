@@ -17,6 +17,8 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - Concepts of equilibrium, reversibility, energy, work, and heat
 - Zeroth Law of Thermodynamics
 - Temperature scales
+- [Basic Thermodynamics Process](https://youtube.com/shorts/EP5mhrBLT6s)
+- [Isothermal adiabatic isochoric isobaric](https://youtube.com/shorts/PZoay-MLHXo)
 
 
 
@@ -33,6 +35,12 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - [Redlich Kwong equation of state](https://youtu.be/yMB0wuQpqdU)
 - [RK-Soave Equation equation of state](https://youtu.be/4RjO2o4nEy0)
 - [Peng-Robinson Equation of State](https://youtu.be/fup_836s1M0)
+- [Redilich-knowg equation of state for real gases: Python Code](https://youtu.be/NPVAEiCsdss)
+- [n-Butane and the Redlich-Kwong Equation of State](https://youtu.be/w3KpX6JZPzY)
+- [n-Butane with Soave-Redlich-Kwong EOS](https://youtu.be/6vMoJA8UGzM)
+- [Peng-Robinson Equation of State to calculate the specific volume of n-butane.](https://youtu.be/Ae-cgv1DUW0)
+- [calculating the specific volume of n-butane using Vander Waals EOS](https://youtu.be/uRE9GkafcYQ)
+- 
 
 - 
 
@@ -43,7 +51,11 @@ This repository offers a comprehensive collection of Python notebooks and learni
 ### 🔥 Unit III: Laws of Thermodynamics
 - Joule’s experiment and internal energy
 - [Laws of Thermodynamics](https://youtube.com/shorts/rXY026pxkec)
+- [First Law of Thermodynamics](https://youtube.com/shorts/UzAY2xCS7X4)
+- 
 - First Law: closed and open systems
+- [First Law of Thermodynamics in Flow Processes](https://youtu.be/dEQR9G-75zU)
+- 
 - Second Law: statements, heat engine, Carnot cycle, entropy
 - Entropy from a microscopic viewpoint
 - Third Law of Thermodynamics
@@ -58,6 +70,10 @@ This repository offers a comprehensive collection of Python notebooks and learni
 - Thermodynamic potentials: U, H, A, G
 - Maxwell relations, Jacobian method, partial derivatives
 - Residual properties and property tables/diagrams
+- [Gibbs Free Energy Equation](https://youtube.com/shorts/E2V87ZloJVo)
+- [Maxwell's Relations SPTV ](https://youtube.com/shorts/m5SpsAoNq38)
+- [Maxwell's Relations](https://youtube.com/shorts/nrc3jFTWESs)
+- 
 
 
 
