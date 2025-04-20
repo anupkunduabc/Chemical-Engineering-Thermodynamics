@@ -6,11 +6,10 @@ This repository offers a comprehensive collection of Python notebooks and learni
 📺 YouTube Channel: [Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
 ## 📚  GATE Chemical Engineering Syllabus: Thermodynamics
-- Gibbs' phase rule, degree of freedom
-- First and Second laws of thermodynamics
-- Thermodynamic properties: pure substances and mixtures
-- EOS, residual properties, fugacity, excess properties, activity coefficients
-- VLE prediction, chemical reaction equilibrium
+First and Second laws of thermodynamics. Applications of first law to close and open systems. 
+Second law and Entropy. Thermodynamic properties of pure substances: Equation of State and 
+residual properties, properties of mixtures: partial molar properties, fugacity, excess properties and 
+activity coefficients; phase equilibria: predicting VLE of systems; chemical reaction equilibrium.
   
 ## 📘 Syllabus Coverage (Topic-wise)
 
